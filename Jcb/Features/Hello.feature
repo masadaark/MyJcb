@@ -1,4 +1,5 @@
-Feature: Hello Appium
+Feature: Hello
 
-  Scenario: Hello Appium
+  @regression
+  Scenario: Hello
     Given Hello Cucumber

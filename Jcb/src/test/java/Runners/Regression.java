@@ -9,7 +9,7 @@ import io.cucumber.junit.Cucumber;
         ,glue = "stepDefinitions"
         ,dryRun = false
         ,monochrome = true
-        ,tags = "@regression-test" //tags can add and,or,not
+        ,tags = "@regression" //tags can add and,or,not
         //command for tag mvn test -D"cucumber.filter.tags=@Smoke"
         ,plugin = {"json:target/cucumber-reports/cucumber.json"}
 )
