@@ -1,0 +1,6 @@
+{
+  "/api/test":{
+    "principal": 20000,
+    "contractId": 1
+  }
+}

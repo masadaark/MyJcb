@@ -1,0 +1,16 @@
+{
+  "local":{
+    "baseUrl": "",
+    "db" : {
+      "user": "",
+      "url": "jdbc:postgresql://",
+      "password": ""
+    },
+    "mockUrl": "",
+    "mappingHeader": {
+      "access-control-allow-headers": "Content-Type,Authorization,X-Amz-Date,X-Api-Key,X-Amz-Security-Token",
+      "access-control-allow-origin": "*",
+      "content-type": "application/json"
+    }
+  }
+}
